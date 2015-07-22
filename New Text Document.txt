@@ -1,3 +1,5 @@
 1 . perform clone comamand
 
 2 . perform status/add/commit/push command
+
+3 . create new banch
