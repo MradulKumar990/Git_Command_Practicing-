@@ -1,2 +1,3 @@
 1 . perform clone comamand
 
+2 . perform status/add/commit/push command
