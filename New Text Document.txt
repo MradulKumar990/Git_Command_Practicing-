@@ -3,3 +3,5 @@
 2 . perform status/add/commit/push command
 
 3 . create new banch
+
+4. pull request
