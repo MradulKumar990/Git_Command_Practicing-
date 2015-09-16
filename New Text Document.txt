@@ -8,3 +8,5 @@
 
 on modiledi branch
 
+add new text in mobiledi
+
