@@ -1,2 +1,6 @@
 1. apple
 2. banana
+<<<<<<< HEAD
+=======
+3. orange
+>>>>>>> mobiledi
