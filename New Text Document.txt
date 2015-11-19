@@ -1,12 +1,1 @@
-1 . perform clone comamand
-
-2 . perform status/add/commit/push command
-
-3 . create new banch
-
-4. pull request
-
-on modiledi branch
-
-add new text in mobiledi
-
+on mobiiledi branch
